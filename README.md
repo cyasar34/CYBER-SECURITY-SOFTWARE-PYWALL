@@ -46,7 +46,7 @@ Abstract:
 - **APA**: Yaşar, Ç. & Kazma, M. (2025).  SİBER GÜVENLİK YAZILIMI: PYWALL. 11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi (pp.693-701). Bakü, Azerbaycan.                            
 - **MLA**: Yaşar, ÇİSEM ve KAZMA, Murat.  "SİBER GÜVENLİK YAZILIMI: PYWALL"  11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi, Bakü, Azerbaycan. pp.693-701, 2025               
 
-![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-SYSTEM-ANALYSIS-AND-DESIGN-FOR-DISASTER-MANAGEMENT-AND-ENVIRONMENTAL-AWARENESS-/blob/main/afet_yonetimi.PNG)
+![Bildiri Metni](https://github.com/cyasar34/CYBER-SECURITY-SOFTWARE-PYWALL/blob/main/pywall.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
