@@ -1,7 +1,7 @@
 
 # CYBER-SECURITY-SOFTWARE-PYWALL
 
-SİBER GÜVENLİK YAZILIMI: PYWALL  / CYBER-SECURITY-SOFTWARE-PYWALL
+SİBER GÜVENLİK YAZILIMI: PYWALL  / CYBER SECURITY SOFTWARE PYWALL
 
 ## Yazarlar / Authors
 
@@ -35,7 +35,7 @@ Kongre Tarihleri: 21-22 Haziran 2025 Bakü, Azerbaycan / June 21-22, 2025 Baku, 
 
 
 Özet:
-<p align="justify"> Artan siber tehditler, bireysel kullanıcılar ve küçük işletmeler için önemli bir güvenlik açığıoluşturmaktadır. Bu çalışmada, dijital güvenliği arttırmayı hedefleyen Python tabanlı bir masaüstüyazılımı olan Pywall sunulmaktadır. Pywall; ağ trafiği analizi, zararlı yazılım taraması ve indirilenuygulamalar gibi üç ana modülden oluşan entegre bir güvenlik çözümü sunmaktadır. Yazılım, her birmodül ile potansiyel tehditleri hızlı bir şekilde tespit eder ve kullanıcıyı bilgilendirir. Yazılımıngeliştirilmesinde, Python’un ağ analizi ve tehdit algılama konularındaki açık kaynakkütüphanelerinden yararlanılmıştır. Ayrıca yapay zeka destekli anomali tespiti modülününentegrasyonu ile yazılımın doğruluğu ve etkinliğinin arttırılması hedeflenmektedir. Sonuç olarak,pywall yazılımının modüler yapısı sayesinde kullanıcıların dijital güvenliklerini yönetebilmelerineolanak tanımakta ve özellikle bireysel kullanıcılar ile küçük ölçekli işletmeler için etkili bir güvenlikçözümü sunmaktadır.
+<p align="justify"> Artan siber tehditler, bireysel kullanıcılar ve küçük işletmeler için önemli bir güvenlik açığı oluşturmaktadır. Bu çalışmada, dijital güvenliği arttırmayı hedefleyen Python tabanlı bir masaüstü yazılımı olan Pywall sunulmaktadır. Pywall; ağ trafiği analizi, zararlı yazılım taraması ve indirilen uygulamalar gibi üç ana modülden oluşan entegre bir güvenlik çözümü sunmaktadır. Yazılım, her birmodül ile potansiyel tehditleri hızlı bir şekilde tespit eder ve kullanıcıyı bilgilendirir. Yazılımın geliştirilmesinde, Python’un ağ analizi ve tehdit algılama konularındaki açık kaynak kütüphanelerinden yararlanılmıştır. Ayrıca yapay zeka destekli anomali tespiti modülünün entegrasyonu ile yazılımın doğruluğu ve etkinliğinin arttırılması hedeflenmektedir. Sonuç olarak,pywall yazılımının modüler yapısı sayesinde kullanıcıların dijital güvenliklerini yönetebilmelerineolanak tanımakta ve özellikle bireysel kullanıcılar ile küçük ölçekli işletmeler için etkili bir güvenlikçözümü sunmaktadır.
 
 Abstract:
 <p align="justify"> Increasing cyber threats pose a significant security vulnerability for individual users and smallbusinesses. This paper presents Pywall, a Python-based desktop software that aims to enhance digitalsecurity. Pywall provides an integrated security solution consisting of three main modules: networktraffic analysis, malware scanning and downloaded applications. With each module, the softwarequickly detects potential threats and notifies the user. In the development of the software, Python'sopen source libraries on network analysis and threat detection were utilized. In addition, it is aimed toincrease the accuracy and effectiveness of the software with the integration of artificial intelligencesupported anomaly detection module. As a result, the modular structure of pywall software allowsusers to manage their digital security and offers an effective security solution especially for individualusers and small-scale businesses.
